@@ -4,7 +4,7 @@ Este projeto é um **rascunho digital** criado com **ReactJS** e **Styled Compon
 feito para que vendedores possam **anotar rapidamente os dados de uma venda**, de forma organizada,  
 com os dados **salvos automaticamente no navegador** via **localStorage**, mesmo após fechar a aba.
 
-🔗 **Acesse o projeto online:**  
+🔗 **Acesse o projeto online (Ctrl+clique para nova aba):**  
 👉 [sales-data-reactjs.vercel.app](https://sales-data-reactjs.vercel.app)
 
 ---
