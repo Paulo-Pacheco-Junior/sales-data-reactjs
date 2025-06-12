@@ -1,8 +1,6 @@
-### TELEVENDAS RECEPTIVO
+### Rascunho para acompanhamento de vendas | ReactJs | Styled Components
 
-#### Site: ...
+#### Site: sales-data-reactjs.vercel.app
 
-#### Back End: ...
 
-#### Em Desenvolvimento...
-# sales-manager-reactjs-1.0
+
